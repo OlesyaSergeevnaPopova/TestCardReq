@@ -1,0 +1,1 @@
+Задача №1 - Заказ карты TEST: [![Build status](https://ci.appveyor.com/api/projects/status/prx88j8lc0ja4ytl?svg=true)](https://ci.appveyor.com/project/OlesyaSergeevnaPopova/testcardreq)
